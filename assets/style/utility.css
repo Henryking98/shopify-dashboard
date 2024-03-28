@@ -1,0 +1,53 @@
+:root {
+
+}
+
+@font-face {
+    font-family: 'Muli';
+    src: local('Muli'), url('../fonts/muli/Muli-ExtraLight.woff') format("woff");
+    font-style: normal;
+    font-weight: 200;
+}
+
+@font-face {
+    font-family: 'Muli';
+    src: local('Muli'), url('../fonts/muli/Muli-Light.woff') format("woff");
+    font-style: normal;
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'Muli';
+    src: local('Muli'), url('../fonts/muli/Muli-Regular.woff') format("woff");
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Muli';
+    src: local('Muli'), url('../fonts/muli/Muli-SemiBold.woff') format("woff");
+    font-style: normal;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Muli';
+    src: local('Muli'), url('../fonts/muli/Muli-Bold.woff') format("woff");
+    font-style: normal;
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'Muli';
+    src: local('Muli'), url('../fonts/muli/Muli-ExtraBold.woff') format("woff");
+    font-style: normal;
+    font-weight: 800;
+}
+
+button {
+    outline: 0;
+}
+
+a {
+    text-decoration: none;
+}
